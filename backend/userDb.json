@@ -1,0 +1,34 @@
+{
+    "admin": {
+        "disabled": false,
+        "hashed_password": "$2b$12$zSzNSxcKHnCwn56ARUMNgO4bAqKu.XVgma5Ax4swOJ00K9YS39lLK",
+        "password": "111",
+        "photo": "",
+        "username": "admin"
+    },
+    "johndoe": {
+        "disabled": false,
+        "password": "test",
+        "username": "johndoe"
+    },
+    "test": {
+        "disabled": false,
+        "hashed_password": "$2b$12$MiVk7iiTw7mvaC4k9q25hOKA3hLapL9e4xaxlw/110oWK2VEdY8h2",
+        "password": "123",
+        "photo": "",
+        "username": "test"
+    },
+    "test1": {
+        "disabled": false,
+        "hashed_password": "$2b$12$.HFqvpgO16OkMuH.EgmYFOvZXnrFV20GTPTb4NqAmWUd.Y8gX.Rw2",
+        "password": "1234",
+        "photo": "",
+        "username": "test1"
+    },
+    "zzy": {
+        "disabled": false,
+        "hashed_password": "$2b$12$yKQkQ0sy2SoMYak196WmZeeO38T9TpMZdWwK40Hbh9.SN1JKMYgAm",
+        "password": "123",
+        "username": "zzy"
+    }
+}

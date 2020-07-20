@@ -1,0 +1,76 @@
+{
+    "questions": [
+        {"title": "How many hours per day does a Google programmer code?",
+        "description": null,
+        "qId": "1",
+        "answerList": [
+            {"aId": "1",
+            "description": "When I first joined Google some 6 years ago, I spent almost my entire day coding, aside from the occasional 30 minute meeting.",
+            "content": "When I first joined Google some 6 years ago, I spent almost my entire day coding, aside from the occasional 30 minute meeting.  I didn't realize how good I had it then.  Today, as a TL, my job is to sit in meeting so others don't have to.  There are days when I consider it lucky to get 2 hours of solid coding in.\n\nBut then, my job role is different now.  My job is to come up with the high level design for complex projects, which involves talking to product managers, and tech leads from other groups whom I interface with.  It's more about if something should be done at all, rather then how to do it.  A lot of times, if I do my job right, then some ill conceived feature never makes it into the product, which saves some other engineer, and possibly myself, a lot of trouble and wasted effort down the road.  So I do consider the time I spend in (some) meetings to be well worth it.  But sadly, that's not always the case.\n\nAnd what time I don't spend in meetings, I have to divide between answering tons of emails, which a lot of times are further debates on some feature that requires cross team, cross functional efforts.  Usually I try to squeeze in at least an hour or two of coding during the day.  Then I go home, spend time with my daughter and wife.  And after they go to bed, I sit down to catch up on code reviews, and if inspiration strikes me, I will get in another hour or two of coding.",
+            "author": {
+                "id": "1",
+                "username": "Xin Li",
+                "photo": "https://qph.fs.quoracdn.net/main-thumb-1325-100-yulrktvuoxawtlesqjzeqxuxffigkpbc.jpeg"
+            }
+        },
+        {"aId": "2",
+            "description": "It depends on the day. I'm usually done being productive with full-on coding tasks after five hours or so.",
+            "content": "It depends on the day. I'm usually done being productive with full-on coding tasks after five hours or so. The rest of the time is spent reviewing others' code, interviewing candidates, meetings, EATING, etc. I certainly have had 12-hour coding days when the work is all laid out and a deadline is looming, but it's the exception. Other people are different. My boss is a total machine. He gets in at 8am and codes nonstop until 6pm. Guess that's why he's my boss.",
+            "author": {
+                "id": "2",
+                "username": "Gavin Doughtie",
+                "photo": ""
+            }
+        },
+        {"aId": "3",
+            "description": "Im not at Google but I code roughly 12–16 hours a Day.",
+            "content": "Im not at Google but I code roughly 12–16 hours a Day. I love Coding, solvind problems. Im new to the languages so its fun to learn new things. I come from web design, mostly HTML css. But I Code so much because I want to learn it all. My goal is to become a full stack developer and for that I must code alot.",
+            "author": {
+                "id": "3",
+                "username": "Alex Brown",
+                "photo": "https://qph.fs.quoracdn.net/main-thumb-327105928-100-vdledwbnvexdmworgcreitsvrqpnbtiq.jpeg"
+            }
+        }
+        ]
+    },
+    {"title": "What is a good pay in Singapore?",
+        "description": "",
+        "qId": "2",
+        "answerList": [
+            {"aId": "1",
+            "description": "Let me start off by giving 2 good examples.",
+            "content": "Let me start off by giving 2 good examples.\n\nOne of my Friend recently bought a $3m condo. She earns 8k/mo and her Husband 15k/mo. They need service the loan at a repayment of 8k/mo. Couple with the condo management fee of 1k/mo. That sums up to 9k/mo. So after minusing CPF, they need fork out 7k cash/mo just to upkeep the condo and live comfortably for the rest of their life. 40% of their earnings goes to property. They eat out, travel and have a Mercedes car. They do not save much.\n\nI have another friend who purchase a HDB flat at 400k from government after minusing grants. The Husband earns 4K and she earns 4K. They do not need to spend any cash per month to pay for the home loan as they take up HDB loan. They take public transport and grab. They save a lot. They only go for weekend brunches and eat out at cafes. Rest of the time all are home cooked meals.\n\nSo given above situations, it boils down to what you want in life. If you want a good life, you will need to climb your way up to achieve that. If you want a simple life, average must have salary is 3-4K.",
+            "author": {
+                "id": "4",
+                "username": "Charlene Goh",
+                "photo": ""
+            }
+        },
+        {"aId": "2",
+            "description": "For a part time job as starters, 7.50 an hour is quite decent.",
+            "content": "For a part time job as starters, 7.50 an hour is quite decent. For a starters as full time people who work in offices, about a few 1000 a month is pretty good, especially in service departments. All in all, make sure you like the job as you can get 10k a month and not be happy and your mental state will get f-ed up so try your best to enjoy your job",
+            "author": {
+                "id": "5",
+                "username": "Nader Blox",
+                "photo": "https://qph.fs.quoracdn.net/main-thumb-769911081-100-ukqmztlwuajvzbmjuvjosuojfqjuqyam.jpeg"
+            }
+        }
+        ]
+    },
+    {"title": "Is there a certain line a news anchor said during a broadcast that you'll never forget?",
+        "description": "",
+        "qId": "3",
+        "answerList": []
+    },
+    {"title": "What’s a song that people often don’t get the real meaning of?",
+        "description": "",
+        "qId": "4",
+        "answerList": []
+    },
+    {"title": "How do drummers feel about drum shields?",
+        "description": "",
+        "qId": "5",
+        "answerList": []
+    }
+    ]
+}
